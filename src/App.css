@@ -1,0 +1,12 @@
+.editorContainer{
+  width: 500px;
+  height: 300px;
+  color:white;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.custom-editor .ql-container {
+  backgroundColor:black;
+  max-height: 86%;
+  font-size: 20px;
+}
